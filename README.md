@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyotsna123singh
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently working on JavaScript, ReactJS, React-Redux
+- 🌱 My Tech Stack includes ReactJS, React-Redux, Javascript/ES6, NodeJS, Rest API
 - 📫 How to reach me: jyotsnasingh0610@gmail.com
 
 <!---
